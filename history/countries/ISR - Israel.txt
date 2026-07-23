@@ -29,9 +29,6 @@ set_convoys = 5
 		construction1 = 1
 		construction2 = 1
 		dispersed_industry = 1
-		dispersed_industry2 = 1
-		motorised_infantry = 1
-		tech_mountaineers = 1
 	}
 	set_grand_doctrine = grand_battleplan
 	set_grand_doctrine = new_fleet_in_being
