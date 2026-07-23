@@ -1,0 +1,8 @@
+leader_traits = {
+	1 = {
+		random = no
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

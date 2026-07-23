@@ -1,0 +1,30 @@
+focus_tree = {
+	id = israil_focuse
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = ISR
+		}
+	}
+	default = no
+	reset_on_civilwar = no
+	focus = {
+		id = ISR_focus_1
+		icon = GFX_focus_AFG_against_kabul
+		x = 0
+		y = -5
+		cost = 1
+		completion_reward = {
+			add_equipment_to_stockpile = {
+				type = infantry_equipment
+				amount = 5000
+				producer = ROOT
+			}
+        }
+	}
+	ai_will_do = {
+		factor = 1
+	}
+}
+
