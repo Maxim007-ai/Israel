@@ -1,0 +1,20 @@
+state = {
+	id = 1084
+	name = "STATE_1084" #Palestine
+	manpower = 933142
+
+	state_category = rural
+
+	history = {
+		owner = ISR
+		add_core_of = ISR
+		add_core_of = PAL
+		buildings = {
+			infrastructure = 3 #was: 5
+			industrial_complex = 1
+		}
+	}
+	provinces = {
+		1015
+	}
+}
